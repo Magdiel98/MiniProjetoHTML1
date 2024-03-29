@@ -1,0 +1,61 @@
+header{
+    background-color: rgb(200, 200, 200);
+    margin: 10px;
+    padding: 10px;
+}
+
+.formatacaotexto{
+    color: rgb(0.0, 4, 200);
+    text-align: center;
+}
+
+article{
+    margin: 10px;
+}
+
+p{
+    font-size: medium;
+    text-align: justify;
+}
+
+
+a#link1{
+    color: red;
+    text-decoration: none;
+}
+
+a#link2{
+    color: purple;
+}
+
+
+ul{
+    font-size: medium;
+}
+
+table, th, td{
+    border: 1px solid #000;
+    border-collapse: collapse;
+    width: 1450px;
+    margin-left: 15px;
+    text-align: center;
+    font-size: medium;
+    padding: 5px;
+}
+
+.impar{
+    background-color: rgb(195, 195, 195);
+
+}
+
+.par{
+    background-color: rgb(220, 220, 220);
+}
+
+img{
+    margin-bottom: 50px;
+    margin-top: 100px;
+    margin-left: 1150px;
+    width: 338px;
+    height: 83px;
+}
